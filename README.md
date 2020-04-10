@@ -1,10 +1,10 @@
 # Image-caption-generator-using-Deep-learning
-##***caption corresponding to any image will be generated using NLP,CNN and LSTM***
+## ***caption corresponding to any image will be generated using NLP,CNN and LSTM***
 
 
 
 
-###***Flicker8k dataset is used for training***
+### ***Flicker8k dataset is used for training***
 
 
 ***Predictions are :-***
